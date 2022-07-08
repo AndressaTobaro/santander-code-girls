@@ -57,5 +57,6 @@ O IntelliJ IDEA é um ambiente de desenvolvimento integrado escrito em Java para
 
 ___
 #### **Texto retirado da apresentação da [Camila Cavalcante](https://www.linkedin.com/in/cami-la)** do curso sobre Java.
+[GitHub Camila Cavalcante](https://github.com/cami-la/curso-dio-dominando-ides-java)
 
 Por [Andressa Tobaro](https://www.linkedin.com/in/andressa-tobaro-130383231)
