@@ -1,8 +1,8 @@
 package br.com.dio.desafio.dominio;
 
-public abstract class Conteudo { //classe abstract não pode ser instanciada
+public abstract class Conteudo {
 
-    protected static final double XP_PADRAO = 10d; // modificador de acesso protected (classes filhas), static quer dizer que podemos acessar o XP_PADRAO fora desta classe
+    protected static final double XP_PADRAO = 10d;
 
     private String titulo;
     private String descricao;
